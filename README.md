@@ -35,3 +35,5 @@ If when cloning a SD image you want to rename the pi, change the name in the fol
 - /etc/hostapd/hostapd.conf
 - /etc/hostname
 - /etc/hosts
+
+Control server is not yet tested
